@@ -53,7 +53,7 @@ DPC-Centri-Storici-Rischio-Sismico/
 │   │   │   ├── shapefile Aree
 ├── Documenti/
 │   ├── report & paper/
-...
+```
 
 ## 1 CENTRI STORICI
 ## 1-1 Introduzione
