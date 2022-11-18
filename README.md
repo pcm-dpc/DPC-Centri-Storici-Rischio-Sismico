@@ -36,6 +36,12 @@ Il 2022-11-21 viene aperto il Repository.
 
 [2-5 Verifica di qualità](#2-5-Verifica-di-qualità)
 
+[Attori coinvolti](#Attori-coinvolti)
+
+[Licenza](#Licenza)
+
+
+
 ## Struttura del repository
 Il repository è organizzato in due cartelle principali: Dati e Documenti. I Dati poi sono organizzati nei diversi temi presenti e nei rispettivi formati previsti per la pubblicazione. I Documenti contengono la relazione complessiva, e altre pubblicazioni di interesse.
 
@@ -141,5 +147,7 @@ DG Sicurezza del Patrimonio: Carlo Cacace
 
 Maurizio Ambrosanio (Agenzia delle Entrate - Direzione Centrale Servizi Catastali, Cartografici e di Pubblicità Immobiliare, Carlo Birrozzi (ICCD), Chiara Veninata (ICCD) e Maria Letizia Mancinelli (ICCD).
 
-
+## Licenza
+Il titolare della serie di dataset degli Aggregati Strutturali è la Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile e ad esso va riferita la citazione di attribuzione principale. Nelle citazioni vanno altresì riportate le attribuzioni riportate nella sezione "Licenza dei dati originali", richieste da ciascun soggetto che ha fornito - per la sua porzione territoriale - il dato originale.
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/master/LICENSE)
 
