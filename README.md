@@ -1,5 +1,5 @@
 # DPC-Centri-Storici-Rischio-Sismico
-Progetto PON - Itinerari digitali - Collaborazione con ICCD per il censimento dei centri storici delle Regioni Basilicata, Calabria, Campania e Puglia
+La collaborazione tra il Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri (DPC) e l'Istituto per il Catalogo e la Documentazione del Ministero della Cultura (ICCD), compresa quella nell’ambito del Progetto PON “Itinerari digitali” sui centri storici delle Regioni Basilicata, Calabria, Campania e Puglia
 
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/DPC-Aggregati-Strutturali-ITC-NordOvest)](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/commits/master)
@@ -61,8 +61,8 @@ Ad oggi l’unico censimento complessivo dei centri storici italiani è quello e
 Nel frattempo erano stati avviati dei rapporti di collaborazione tra DPC e MIC nel cui ambito era stato individuato il centro storico come “unità di aggregazione elementare” più adatta a compiere valutazioni sull’esposizione al rischio del patrimonio storico di interesse comune alle due Amministrazioni. In tale contesto sono state messe a confronto le informazioni tratte dalle rispettive banche dati e verso la fine degli anni ’90, il DPC condivise anche il lavoro intrapreso dall’ICCD e dalla Regione Siciliana. integrandolo in un proprio modello schedografico per generare una specifica banca dati in cui la documentazione geografica dei centri storici venne approfondita rendendola più accurata e mantenendola aggiornata ai più recenti censimenti nazionali della popolazione e delle abitazioni effettuati dall’ISTAT. È stato così realizzato il sistema Centri Storici e Rischio Sismico (CSRS) in cui i centri storici in cui la caratterizzazione geografica riveste una particolare importanza, mediante una localizzazione puntuale e in forma poligonale. Inoltre, tramite un insieme di relazioni con altre informazioni territoriali, nel sistema CSRS è consentita anche una valutazione della dimensione territoriale dei centri stessi secondo una molteplicità di “scale di lettura”, dal livello specifico del centro e della località abitata che lo ospita, fino ai livelli territoriali superiori: comunali, provinciali e regionali.
 
 ## 1-2 Formato
-ll formato dei file di dati è shapefile. Ogni shapefile è formato da 4 file con le seguenti estensioni: .dbf, .prj, .shp, .shx.
-La struttura dei file è la seguente:
+ll formato dei file di dati è shapefile. Ogni shapefile è formato da 4 file con le seguenti estensioni: .dbf, .prj, .shp, .shx. A questo formato si aggiunge il formato geojson.
+La struttura dei dati nei file è la seguente:
 
 | Nome campo                  | Definizione                       | Descrizione                           | 
 |-----------------------------|-----------------------------------|---------------------------------------|
@@ -100,8 +100,8 @@ A livello di primo inserimento, è stata mantenuta la posizione assegnata dall�
 A seguito della sperimentazione sui perimetri dei centri storici della Regione Molise, effettuata utilizzando i dati cartografici catastali forniti dall’Agenzia delle Entrate e delle successive analoghe elaborazioni per gli scopi del Progetto PON “Itinerari digitali” nelle Regioni Basilicata, Calabria, Campania e Puglia, è stata meglio specificata la definizione dei poligoni generati per i centri storici. Più che una perimetrazione del centro, infatti, questi poligoni rappresentano delle aree ad elevata concentrazione di edificato ante 1945 e di interesse storico, perché site in corrispondenza di centri storici. L’approccio speditivo adottato dal DPC per la generazione di queste aree, facilita eventuali successive integrazioni puntiformi, per giungere grazie a questa combinazione di osservazioni, ad una analisi più approfondita e facilitata dei centri urbani italiani.
 
 ## 2-2 Formato
-ll formato dei file di dati è shapefile. Ogni shapefile è formato da 4 file con le seguenti estensioni: .dbf, .prj, .shp, .shx.
-La struttura dei file è la seguente:
+ll formato dei file di dati è shapefile. Ogni shapefile è formato da 4 file con le seguenti estensioni: .dbf, .prj, .shp, .shx. A questo formato si aggiunge il formato geojson.
+La struttura dei dati nei file è la seguente:
 
 | Nome campo                  | Definizione                       | Descrizione                           | 
 |-----------------------------|-----------------------------------|---------------------------------------|
