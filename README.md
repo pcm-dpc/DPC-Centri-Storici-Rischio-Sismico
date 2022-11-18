@@ -149,5 +149,5 @@ Maurizio Ambrosanio (Agenzia delle Entrate - Direzione Centrale Servizi Catastal
 
 ## Licenza
 Il titolare della serie di dataset degli Aggregati Strutturali è la Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile e ad esso va riferita la citazione di attribuzione principale. Nelle citazioni vanno altresì riportate le attribuzioni riportate nella sezione "Licenza dei dati originali", richieste da ciascun soggetto che ha fornito - per la sua porzione territoriale - il dato originale.
-[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/master/LICENSE)
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/master/LICENSE.md)
 
