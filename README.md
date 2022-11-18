@@ -10,31 +10,31 @@ Il 2022-11-21 viene aperto il Repository.
 ## Sommario
 [Struttura del Repository](#Struttura-del-repository)
 
-[CENTRI STORICI](#CENTRI-STORICI)
+[1. CENTRI STORICI](#CENTRI-STORICI)
 
-[Introduzione](#Introduzione)
+[1.1 Introduzione](#1.1-Introduzione)
 
-[Formato](#Formato)
+[1.2 Formato](#Formato)
 
-[Sistema di riferimento](#Sistema-di-riferimento)
+[1.3 Sistema di riferimento](#Sistema-di-riferimento)
 
-[Procedura per la generazione](#Procedura-per-la-generazione)
+[1.4 Procedura per la generazione](#Procedura-per-la-generazione)
 
-[Verifica di qualità](#Verifica-di-qualità)
+[1.5 Verifica di qualità](#Verifica-di-qualità)
 
-[AREE AD ALTA CONCENTRAZIONE DI EDIFICATO ANTE 1945](#AREE-AD-ALTA-CONCENTRAZIONE-DI-EDIFICATO-ANTE-1945)
+[2. AREE AD ALTA CONCENTRAZIONE DI EDIFICATO ANTE 1945](#AREE-AD-ALTA-CONCENTRAZIONE-DI-EDIFICATO-ANTE-1945)
 
-[Introduzione](#Introduzione)
+[2.1 Introduzione](#Introduzione)
 
-[Sistema di riferimento](#Sistema-di-riferimento)
+[2.2 Sistema di riferimento](#Sistema-di-riferimento)
 
-[Procedura per la generazione](#Procedura-per-la-generazione)
+[2.3 rocedura per la generazione](#Procedura-per-la-generazione)
 
-[Verifica di qualità](#Verifica-di-qualità)
+[2.4 Verifica di qualità](#Verifica-di-qualità)
 
-[Verifica di qualità](#Verifica-di-qualità)
+[2.5 Verifica di qualità](#Verifica-di-qualità)
 
-## Introduzione
+## 1.1 Introduzione
 Ad oggi l’unico censimento complessivo dei centri storici italiani è quello effettuata dall’ICCD agli inizi degli anni ’90 in applicazione della Legge n.84/90. L’ICCD, infatti, elaborò un progetto per realizzare un censimento dei centri storici presenti sul territorio nazionale (esclusa la Regione Sicilia, che ha una propria autonomia in materia di beni culturali), secondo lo standard e i criteri omogenei individuati in una specifica metodologia sperimentale. La parte relativa alla Regione Sicilia fu realizzata nel 1996 attraverso il Piano territoriale paesistico regionale, adottando la medesima metodologia sperimentale.
 Nel frattempo erano stati avviati dei rapporti di collaborazione tra DPC e MIC nel cui ambito era stato individuato il centro storico come “unità di aggregazione elementare” più adatta a compiere valutazioni sull’esposizione al rischio del patrimonio storico di interesse comune alle due Amministrazioni. In tale contesto sono state messe a confronto le informazioni tratte dalle rispettive banche dati e verso la fine degli anni ’90, il DPC condivise anche il lavoro intrapreso dall’ICCD e dalla Regione Siciliana. integrandolo in un proprio modello schedografico per generare una specifica banca dati in cui la documentazione geografica dei centri storici venne approfondita rendendola più accurata e mantenendola aggiornata ai più recenti censimenti nazionali della popolazione e delle abitazioni effettuati dall’ISTAT. È stato così realizzato il sistema Centri Storici e Rischio Sismico (CSRS) in cui i centri storici in cui la caratterizzazione geografica riveste una particolare importanza, mediante una localizzazione puntuale e in forma poligonale. Inoltre, tramite un insieme di relazioni con altre informazioni territoriali, nel sistema CSRS è consentita anche una valutazione della dimensione territoriale dei centri stessi secondo una molteplicità di “scale di lettura”, dal livello specifico del centro e della località abitata che lo ospita, fino ai livelli territoriali superiori: comunali, provinciali e regionali.
 
