@@ -107,7 +107,7 @@ La struttura dei dati nei file è la seguente:
 
 | Nome campo                  | Definizione                       | Descrizione                           | 
 |-----------------------------|-----------------------------------|---------------------------------------|
-| **ID_CS**                        | ID del centro storico | NIdentificativo del centro storico ereditato dal censimento ICCD/Regione o attribuito dal sistema CSRS |
+| **ID_CS**                        | ID del centro storico | Identificativo del centro storico ereditato dal censimento ICCD/Regione o attribuito dal sistema CSRS |
 | **ISTATL**                        | Codice ISTAT completo della località abitata | Codifica creata nel sistema CSRS, riferita al censimento 2011 che compone i codici ISTAT della regione, provincia, comune e località abitata in cui ricade il centro storico (2 cifre: codice ISTAT Regione; 3 cifre: codice ISTAT Provincia; 3 cifre: codice ISTAT Comune;5 cifre codice ISTAT Località). Nel codice della Località la prima cifra indica la tipologia di località (1=centro, 2=nucleo, 3= località speciali, 4=case sparse) |
 
 ## 2-3 Sistema di riferimento
