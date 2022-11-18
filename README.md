@@ -50,9 +50,7 @@ La struttura dei file è la seguente:
 | **TOPONIMO_IGM**                        | Nome geografico | Nome geografico estratto dalla serie cartografica 25V (vecchia serie delle Tavolette IGM alla scala 1:25000) corrispondente al centro storico (ove associato per definirne la posizione) |
 | **LONGITUDINE**                        |  | Coordinata X nel sistema di riferimento adottato |
 | **LATITUDINE**                        |  | Coordinata y nel sistema di riferimento adottato |
-| **IC(vedi nota)**                        | Interesse Culturale | Indicatore sintetico che prende in considerazione molteplici fattori, tutti concorrenti a determinare l’interesse di un centro storico dal punto di vista artistico, storico, ambientale e socio-antropologico. Per orientarsi rispetto ai valori numerici osservati, si riporta la suddivisione nelle classi di “valore” progressive adottata nel sistema CSRS per le rappresentazioni tematiche, secondo il seguente schema:
-IC = 0                     Indicatore nullo
-0 < IC < 2.41         Classe E
+| **IC(vedi nota)**                        | Interesse Culturale | Indicatore sintetico che prende in considerazione molteplici fattori, tutti concorrenti a determinare l’interesse di un centro storico dal punto di vista artistico, storico, ambientale e socio-antropologico. Per orientarsi rispetto ai valori numerici osservati, si riporta la suddivisione nelle classi di “valore” progressive adottata nel sistema CSRS per le rappresentazioni tematiche, secondo il seguente schema: IC = 0                     Indicatore nullo, 0 < IC < 2.41         Classe E
 2.41 < IC < 9.5      Classe D
 9.5 < IC < 31.37    Classe C
 31.37 < IC <= 100 Classe B
