@@ -30,7 +30,7 @@ Il 2022-11-21 viene aperto il Repository.
 
 [2-3 Sistema di riferimento](#2-3-Sistema-di-riferimento)
 
-[2-4 Procedura per la generazione](#24-Procedura-per-la-generazione)
+[2-4 Procedura per la generazione](#2-4-Procedura-per-la-generazione)
 
 [2-5 Verifica di qualità](#2-5-Verifica-di-qualità)
 
