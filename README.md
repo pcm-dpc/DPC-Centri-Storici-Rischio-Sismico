@@ -1,7 +1,8 @@
 <img src="Documenti/LogoGitHub.PNG" alt="DPC-Centri-Storici-Rischio-Sismico" data-canonical-src="Documenti/LogoGitHub.PNG" width="800" />
 
 # DPC-Centri-Storici-Rischio-Sismico
-La collaborazione tra il Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri (DPC) e l'Istituto per il Catalogo e la Documentazione del Ministero della Cultura (ICCD), compresa quella nell’ambito del Progetto PON “Itinerari digitali” sui centri storici delle Regioni Basilicata, Calabria, Campania e Puglia
+## Repository contenente alcuni dataset del Sistema Web Centri Storici e Rischio Sismico (CSRS)
+Collaborazione tra il Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri (DPC) e l'Istituto per il Catalogo e la Documentazione del Ministero della Cultura (ICCD), compresa quella nell’ambito del Progetto PON “Itinerari digitali” sui centri storici delle Regioni Basilicata, Calabria, Campania e Puglia
 
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/DPC-Aggregati-Strutturali-ITC-NordOvest)](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/commits/master)
