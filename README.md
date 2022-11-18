@@ -34,6 +34,27 @@ Il 2022-11-21 viene aperto il Repository.
 
 [2-5 Verifica di qualità](#2-5-Verifica-di-qualità)
 
+## Struttura del repository
+Il repository è organizzato in due cartelle principali: Dati e Documenti. I Dati poi sono organizzati nei diversi temi presenti e nei rispettivi formati previsti per la pubblicazione. I Documenti contengono la relazione complessiva, e altre pubblicazioni di interesse.
+
+```
+DPC-Centri-Storici-Rischio-Sismico/
+│
+├── Dati/
+│   ├── CentriStorici/
+│   │   ├── Shape/
+│   │   │   ├── shapefile CS
+│   │   ├── Geojson/
+│   │   │   ├── shapefile CS
+│   ├── AreeEdificiAnte1945/
+│   │   ├── Shape/
+│   │   │   ├── shapefile Aree
+│   │   ├── Geojson/
+│   │   │   ├── shapefile Aree
+├── Documenti/
+│   ├── report & paper/
+
+## 1 CENTRI STORICI
 ## 1-1 Introduzione
 Ad oggi l’unico censimento complessivo dei centri storici italiani è quello effettuata dall’ICCD agli inizi degli anni ’90 in applicazione della Legge n.84/90. L’ICCD, infatti, elaborò un progetto per realizzare un censimento dei centri storici presenti sul territorio nazionale (esclusa la Regione Sicilia, che ha una propria autonomia in materia di beni culturali), secondo lo standard e i criteri omogenei individuati in una specifica metodologia sperimentale. La parte relativa alla Regione Sicilia fu realizzata nel 1996 attraverso il Piano territoriale paesistico regionale, adottando la medesima metodologia sperimentale.
 Nel frattempo erano stati avviati dei rapporti di collaborazione tra DPC e MIC nel cui ambito era stato individuato il centro storico come “unità di aggregazione elementare” più adatta a compiere valutazioni sull’esposizione al rischio del patrimonio storico di interesse comune alle due Amministrazioni. In tale contesto sono state messe a confronto le informazioni tratte dalle rispettive banche dati e verso la fine degli anni ’90, il DPC condivise anche il lavoro intrapreso dall’ICCD e dalla Regione Siciliana. integrandolo in un proprio modello schedografico per generare una specifica banca dati in cui la documentazione geografica dei centri storici venne approfondita rendendola più accurata e mantenendola aggiornata ai più recenti censimenti nazionali della popolazione e delle abitazioni effettuati dall’ISTAT. È stato così realizzato il sistema Centri Storici e Rischio Sismico (CSRS) in cui i centri storici in cui la caratterizzazione geografica riveste una particolare importanza, mediante una localizzazione puntuale e in forma poligonale. Inoltre, tramite un insieme di relazioni con altre informazioni territoriali, nel sistema CSRS è consentita anche una valutazione della dimensione territoriale dei centri stessi secondo una molteplicità di “scale di lettura”, dal livello specifico del centro e della località abitata che lo ospita, fino ai livelli territoriali superiori: comunali, provinciali e regionali.
@@ -73,6 +94,7 @@ La metodologia inizialmente adottata dall’ICCD è basata sul confronto delle l
 ## 1-5 Verifica di qualità
 A livello di primo inserimento, è stata mantenuta la posizione assegnata dall’ICCD. Nel sistema CSRS è possibile modificare la posizione associandola ad un toponimo IGM oppure ad una posizione stabilita dall’utente con riferimento all’ortofoto del Ministero dell’Ambiente. Una speciale occasione di verifica complessiva è stata offerta dalla collaborazione avviata tra il DPC e l’ICCD per il Progetto PON “Itinerari Digitali” nelle Regioni Basilicata, Calabria, Campania e Puglia. In questa occasione, l’applicazione della metodologia per la generazione delle aree ad elevata concentrazione di edificato storico (ante 1945) in corrispondenza dei centri storici presenti nel sistema CSRS ha consentito una loro più accurata revisione mediante cancellazione, inserimento, modifica posizionale dei centri storici presenti in quelle regioni. Analogamente, in precedenza, una collaborazione con la Soprintendenza per i beni culturali della Provincia Autonoma di Trento aveva consentito una ampia revisione anche in quell’area. Così pure nell’area vulcanica dei Campi Flegrei e del Vesuvio, in occasione dell’avvio delle attività per la pianificazione di emergenza per rischio vulcanico della zona rossa nel settore beni culturali. Nelle restanti porzioni del territorio le verifiche sono state fatte con livelli differenti di dettaglio, dando priorità alle aree a più elevato rischio sismico.
 
+## 2 AREE AD ALTA CONCENTRAZIONE DI EDIFICATO ANTE 1945
 ## 2-1 Introduzione
 A seguito della sperimentazione sui perimetri dei centri storici della Regione Molise, effettuata utilizzando i dati cartografici catastali forniti dall’Agenzia delle Entrate e delle successive analoghe elaborazioni per gli scopi del Progetto PON “Itinerari digitali” nelle Regioni Basilicata, Calabria, Campania e Puglia, è stata meglio specificata la definizione dei poligoni generati per i centri storici. Più che una perimetrazione del centro, infatti, questi poligoni rappresentano delle aree ad elevata concentrazione di edificato ante 1945 e di interesse storico, perché site in corrispondenza di centri storici. L’approccio speditivo adottato dal DPC per la generazione di queste aree, facilita eventuali successive integrazioni puntiformi, per giungere grazie a questa combinazione di osservazioni, ad una analisi più approfondita e facilitata dei centri urbani italiani.
 
