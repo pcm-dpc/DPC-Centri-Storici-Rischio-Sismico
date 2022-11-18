@@ -42,3 +42,14 @@ Nel frattempo erano stati avviati dei rapporti di collaborazione tra DPC e MIC n
 ll formato dei file di dati è shapefile. Ogni shapefile è formato da 4 file con le seguenti estensioni: .dbf, .prj, .shp, .shx.
 La struttura dei file è la seguente:
 
+| Nome campo                  | Definizione                       | Descrizione                           | 
+|-----------------------------|-----------------------------------|---------------------------------------|
+| **NOME**                        | Denominazione del centro storico | Nome attribuito nel censimento ICCD/Regione Sicilia oppure dal sistema CSRS |
+| **ID_CS**                        | Identificativo del centro storico | Identificativo del centro storico ereditato dal censimento ICCD/Regione o attribuito dal sistema CSRS |
+| **ISTATL**                        | Codice ISTAT completo della località abitata | Codifica creata nel sistema CSRS, riferita al censimento 2011 che compone i codici ISTAT della regione, provincia, comune e località abitata in cui ricade il centro storico (2 cifre: codice ISTAT Regione; 3 cifre: codice ISTAT Provincia; 3 cifre: codice ISTAT Comune;5 cifre codice ISTAT Località). Nel codice della Località la prima cifra indica la tipologia di località (1=centro, 2=nucleo, 3= località speciali, 4=case sparse) |
+| **TOPONIMO_IGM**                        | Nome geografico | Nome geografico estratto dalla serie cartografica 25V (vecchia serie delle Tavolette IGM alla scala 1:25000) corrispondente al centro storico (ove associato per definirne la posizione) |
+| **LONGITUDINE**                        |  | Coordinata X nel sistema di riferimento adottato |
+| **LATITUDINE**                        |  | Coordinata y nel sistema di riferimento adottato |
+
+
+
