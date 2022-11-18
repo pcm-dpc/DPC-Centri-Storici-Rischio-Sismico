@@ -1,4 +1,4 @@
-<img src="Documenti/LogoGitHub.png" alt="CSRS" data-canonical-src="Documenti/LogoGitHub.png" width="400" />
+<img src="Documenti/LogoGitHub.png" alt="DPC-Centri-Storici-Rischio-Sismico" data-canonical-src="Documenti/LogoGitHub.png" width="400" />
 
 # DPC-Centri-Storici-Rischio-Sismico
 La collaborazione tra il Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri (DPC) e l'Istituto per il Catalogo e la Documentazione del Ministero della Cultura (ICCD), compresa quella nell’ambito del Progetto PON “Itinerari digitali” sui centri storici delle Regioni Basilicata, Calabria, Campania e Puglia
