@@ -169,7 +169,7 @@ Maurizio Ambrosanio (Agenzia delle Entrate - Direzione Centrale Servizi Catastal
 
 **Centri storici**
 
-Il titolare del dataset relativo ai centri storici è la Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile, la citazione di attribuzione deve richiamare anche l'Istituto Centrale per il Catalogo e la Documentazione del Ministero della Cultura.
+Il titolare del dataset relativo ai centri storici è la Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile, la citazione di attribuzione deve richiamare anche l'Istituto Centrale per il Catalogo e la Documentazione del Ministero della Cultura e il Dipartimento dei Beni culturali e dell'Identità siciliana dell'Assessorato dei Beni culturali e dell'Identità siciliana della Regione Sicilia.
 
 **Aree ad elevata concentrazione di edificato ante 1945**
 
