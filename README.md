@@ -134,7 +134,7 @@ La fase sperimentale, tuttavia, non sembra ancora conclusa, tenuto conto sopratt
 
 ## METADATI
 
-I due dataset pubblicata sono documentati in conformità a quanto previsto dalle Linee Guida Linee regole tecniche per la definizione e l’aggiornamento del
+I due dataset pubblicati sono documentati in conformità a quanto previsto dalle Linee Guida Linee regole tecniche per la definizione e l’aggiornamento del
 contenuto del Repertorio Nazionale dei Dati Territoriali, Versione 2.0.1 adottata con la Determinazione n. 50/2022 del DG di AgID ai sensi dell'art. 71 del Decreto Legislativo 7 marzo 2005, n. 82 e s.m.i. (Codice dell'amministrazione digitale).
 
 **Centri storici:**
