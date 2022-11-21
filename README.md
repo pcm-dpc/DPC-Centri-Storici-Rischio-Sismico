@@ -37,6 +37,8 @@ Il 2022-11-21 viene aperto il Repository.
 
 [2-5 Verifica di qualità](#2-5-Verifica-di-qualità)
 
+[METADATI](#METADATI)
+
 [ATTORI COINVOLTI](#ATTORI-COINVOLTI)
 
 [LICENZA](#LICENZA)
@@ -130,6 +132,13 @@ Per la metodologia adottata si rimanda a quanto riportato in https://www.agenzia
 A valle dell’applicazione delle procedure automatiche per la generazione dei poligoni, vengono successivamente applicate delle verifiche essenzialmente manuali di qualità per valutare e, ove necessario, modificare le geometrie generate dall’algoritmo, nonché per verificare e/o integrare le associazioni con i centri storici realizzate automaticamente. 
 La fase sperimentale, tuttavia, non sembra ancora conclusa, tenuto conto soprattutto dell’estrema eterogeneità del paesaggio edificato italiano. In regioni come la Campania e la Calabria, specie nelle aree soggette a maggior sviluppo edilizio, il lavoro di editing manuale (post processing) di validazione è stato molto oneroso oltre che necessario. Questo ha comportato una resa finale del dataset generato che in taluni casi può apparire disomogenea rispetto al medesimo prodotto in aree diverse. La gestione e risoluzione di diversi casi e situazioni inedite occorse in corso d’opera hanno, inoltre, contribuito – seppur in modo limitato – ad adattare e modificare i criteri di utilizzo e interpretazione dei dati. Si ritiene, dunque, utile sia una verifica accurata dei risultati fin qui conseguiti anche mediante l’auspicata integrazioni con ulteriori dati, ma anche l’estensione (in futuro) dell’applicazione della procedura ad altre aree del territorio nazionale, a partire da quelle a più elevato rischio sismico. Al fine delle verifiche di cui si parlava in precedenza è stato di grandissima utilità il lavoro di confronto con le delimitazioni di alcuni centri storici prodotte nelle diverse pianificazioni disponibili per l’area in studio svolto da Cosmo Mercuri (DPC) e presentato nel convegno tenutosi nel giugno 2022, nonché l’attività di compilazione delle schede SCAN da parte di ICCD
 
+## METADATI
+
+I due dataset pubblicata sono documentati in conformità a quanto previsto dalle Linee Guida Linee regole tecniche per la definizione e l’aggiornamento del
+contenuto del Repertorio Nazionale dei Dati Territoriali, Versione 2.0.1 adottata con la Determinazione n. 50/2022 del DG di AgID ai sensi dell'art. 71 del Decreto Legislativo 7 marzo 2005, n. 82 e s.m.i. (Codice dell'amministrazione digitale).
+Centri storici: https://dati.protezionecivile.it/geoportalDPC/rest/document?id=PCM:111:20221114:100000
+Aree ad elevata concentrazione di edificato ante 1945: https://dati.protezionecivile.it/geoportalDPC/rest/document?id=PCM:111bis:20221114:100900
+
 ## ATTORI COINVOLTI
 Attività istituzionale realizzata in collaborazione tra il Servizio Sistemi Informativi e di comunicazione dell’Ufficio Risorse umane e strumentali e servizi generali di funzionamento (RUS) e il Servizio Rilievo del danno dell’Ufficio Attività per il superamento dell’emergenza (POST), entrambi appartenenti al Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri (DPC) e l’Istituto per il Catalogo e la Documentazione del Ministero della Cultura (ICCD).
 
@@ -158,7 +167,7 @@ Il titolare del dataset relativo ai centri storici è la Presidenza del Consigli
 
 **Aree ad elevata concentrazione di edificato ante 1945**
 
-Il titolare del dataset relativo ai centri storici è la Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile, la citazione di attribuzione deve richiamare anche l'Agenzia delle Entrate.
+Il titolare del dataset relativo alle Aree ad elevata concentrazione di edificato ante 1945 è la Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile, la citazione di attribuzione deve richiamare anche l'Agenzia delle Entrate come fonte dei dati elaborati. La medesima Agenzia deve ritenersi sollevata da ogni uso derivante dall'elaborazione dei dati prodotta dal Dipartimento della protezione civile.
 
 
 
