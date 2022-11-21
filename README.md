@@ -137,9 +137,11 @@ La fase sperimentale, tuttavia, non sembra ancora conclusa, tenuto conto sopratt
 I due dataset pubblicata sono documentati in conformità a quanto previsto dalle Linee Guida Linee regole tecniche per la definizione e l’aggiornamento del
 contenuto del Repertorio Nazionale dei Dati Territoriali, Versione 2.0.1 adottata con la Determinazione n. 50/2022 del DG di AgID ai sensi dell'art. 71 del Decreto Legislativo 7 marzo 2005, n. 82 e s.m.i. (Codice dell'amministrazione digitale).
 
-Centri storici: https://dati.protezionecivile.it/geoportalDPC/rest/document?id=PCM:111:20221114:100000
+Centri storici: 
+https://dati.protezionecivile.it/geoportalDPC/rest/document?id=PCM:111:20221114:100000
 
-Aree ad elevata concentrazione di edificato ante 1945: https://dati.protezionecivile.it/geoportalDPC/rest/document?id=PCM:111bis:20221114:100900
+Aree ad elevata concentrazione di edificato ante 1945: 
+https://dati.protezionecivile.it/geoportalDPC/rest/document?id=PCM:111bis:20221114:100900
 
 ## ATTORI COINVOLTI
 Attività istituzionale realizzata in collaborazione tra il Servizio Sistemi Informativi e di comunicazione dell’Ufficio Risorse umane e strumentali e servizi generali di funzionamento (RUS) e il Servizio Rilievo del danno dell’Ufficio Attività per il superamento dell’emergenza (POST), entrambi appartenenti al Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri (DPC) e l’Istituto per il Catalogo e la Documentazione del Ministero della Cultura (ICCD).
