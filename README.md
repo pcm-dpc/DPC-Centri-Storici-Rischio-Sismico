@@ -53,12 +53,12 @@ DPC-Centri-Storici-Rischio-Sismico/
 │
 ├── Dati/
 │   ├── CentriStorici/
-│   │   ├── Shape/
+│   │   ├── Shapefile/
 │   │   │   ├── shapefile CS
 │   │   ├── Geojson/
 │   │   │   ├── geojson CS
 │   ├── AreeEdificiAnte1945/
-│   │   ├── Shape/
+│   │   ├── Shapefile/
 │   │   │   ├── shapefile Aree
 │   │   ├── Geojson/
 │   │   │   ├── geojson Aree
