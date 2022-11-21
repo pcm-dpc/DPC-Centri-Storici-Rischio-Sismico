@@ -149,6 +149,11 @@ DG Sicurezza del Patrimonio: Carlo Cacace
 Maurizio Ambrosanio (Agenzia delle Entrate - Direzione Centrale Servizi Catastali, Cartografici e di Pubblicità Immobiliare, Carlo Birrozzi (ICCD), Chiara Veninata (ICCD) e Maria Letizia Mancinelli (ICCD).
 
 ## LICENZA
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/master/LICENSE.md)
+**Centri storici**
+Il titolare del dataset relativo ai centri storici è la Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile, la citazione di attribuzione deve richiamare anche l'Istituto Centrale per il Catalogo e la Documentazione del Ministero della Cultura.
+**Aree ad elevata concentrazione di edificato ante 1945**
+Il titolare del dataset relativo ai centri storici è la Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile, la citazione di attribuzione deve richiamare anche l'Agenzia delle Entrate.
 
-Il titolare dei dataset del repository DPC-Centri-Storici-Rischio-Sismico è la Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile e ad esso va riferita la citazione di attribuzione principale. [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/master/LICENSE.md)
+
 
