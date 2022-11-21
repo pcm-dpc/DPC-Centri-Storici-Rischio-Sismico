@@ -37,9 +37,9 @@ Il 2022-11-21 viene aperto il Repository.
 
 [2-5 Verifica di qualità](#2-5-Verifica-di-qualità)
 
-[Attori coinvolti](#Attori-coinvolti)
+[ATTORI COINVOLTI](#ATTORI-COINVOLTI)
 
-[Licenza](#Licenza)
+[LICENZA](#LICENZA)
 
 
 
@@ -130,7 +130,7 @@ Per la metodologia adottata si rimanda a quanto riportato in https://www.agenzia
 A valle dell’applicazione delle procedure automatiche per la generazione dei poligoni, vengono successivamente applicate delle verifiche essenzialmente manuali di qualità per valutare e, ove necessario, modificare le geometrie generate dall’algoritmo, nonché per verificare e/o integrare le associazioni con i centri storici realizzate automaticamente. 
 La fase sperimentale, tuttavia, non sembra ancora conclusa, tenuto conto soprattutto dell’estrema eterogeneità del paesaggio edificato italiano. In regioni come la Campania e la Calabria, specie nelle aree soggette a maggior sviluppo edilizio, il lavoro di editing manuale (post processing) di validazione è stato molto oneroso oltre che necessario. Questo ha comportato una resa finale del dataset generato che in taluni casi può apparire disomogenea rispetto al medesimo prodotto in aree diverse. La gestione e risoluzione di diversi casi e situazioni inedite occorse in corso d’opera hanno, inoltre, contribuito – seppur in modo limitato – ad adattare e modificare i criteri di utilizzo e interpretazione dei dati. Si ritiene, dunque, utile sia una verifica accurata dei risultati fin qui conseguiti anche mediante l’auspicata integrazioni con ulteriori dati, ma anche l’estensione (in futuro) dell’applicazione della procedura ad altre aree del territorio nazionale, a partire da quelle a più elevato rischio sismico. Al fine delle verifiche di cui si parlava in precedenza è stato di grandissima utilità il lavoro di confronto con le delimitazioni di alcuni centri storici prodotte nelle diverse pianificazioni disponibili per l’area in studio svolto da Cosmo Mercuri (DPC) e presentato nel convegno tenutosi nel giugno 2022, nonché l’attività di compilazione delle schede SCAN da parte di ICCD
 
-## Attori coinvolti
+## ATTORI COINVOLTI
 Attività istituzionale realizzata in collaborazione tra il Servizio Sistemi Informativi e di comunicazione dell’Ufficio Risorse umane e strumentali e servizi generali di funzionamento (RUS) e il Servizio Rilievo del danno dell’Ufficio Attività per il superamento dell’emergenza (POST), entrambi appartenenti al Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri (DPC) e l’Istituto per il Catalogo e la Documentazione del Ministero della Cultura (ICCD).
 
 **A cura di:**
@@ -148,6 +148,7 @@ DG Sicurezza del Patrimonio: Carlo Cacace
 
 Maurizio Ambrosanio (Agenzia delle Entrate - Direzione Centrale Servizi Catastali, Cartografici e di Pubblicità Immobiliare, Carlo Birrozzi (ICCD), Chiara Veninata (ICCD) e Maria Letizia Mancinelli (ICCD).
 
-## Licenza
+## LICENZA
+
 Il titolare dei dataset del repository DPC-Centri-Storici-Rischio-Sismico è la Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile e ad esso va riferita la citazione di attribuzione principale. [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/master/LICENSE.md)
 
