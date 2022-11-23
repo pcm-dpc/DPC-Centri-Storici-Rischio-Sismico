@@ -138,10 +138,6 @@ La fase sperimentale, tuttavia, non sembra ancora conclusa, tenuto conto sopratt
 
 Nel caso di dati territoriali, viste le regole tecniche di cui alle linee guida INSPIRE per l’implementazione dei servizi di rete di cui all’art. 7 comma 1 del D-LGS-32-2010, detti servizi di rete possono essere considerati come API in considerazione del fatto che nell’ambito delle Linee Guida sull’interoperabilità tecnica delle PA, accettando la nomenclatura in uso a livello europeo e più in generale nel contesto internazionale, si utilizza il termine generico API per indicare indifferentemente le Web API, i web service e le API REST (Linee Guida Open Data).
 
-**Servizi di consultazione**
-
-https://servizi.protezionecivile.it/geoserver/CSRS/wms?service=wms&version=1.3.0&request=GetCapabilities
-
 **Servizi di scaricamento**
 
 https://servizi.protezionecivile.it/geoserver/CSRS/ows?service=wfs&version=1.1.0&request=GetCapabilities
