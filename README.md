@@ -37,6 +37,8 @@ Il 2022-11-21 viene aperto il Repository.
 
 [2-5 Verifica di qualità](#2-5-Verifica-di-qualità)
 
+[SERVIZI DI RETE OGC](#SERVIZI-DI-RETE-OGC)
+
 [METADATI](#METADATI)
 
 [ATTORI COINVOLTI](#ATTORI-COINVOLTI)
@@ -131,6 +133,18 @@ Per la metodologia adottata si rimanda a quanto riportato in https://www.agenzia
 ## 2-5 Verifica di qualità
 A valle dell’applicazione delle procedure automatiche per la generazione dei poligoni, vengono successivamente applicate delle verifiche essenzialmente manuali di qualità per valutare e, ove necessario, modificare le geometrie generate dall’algoritmo, nonché per verificare e/o integrare le associazioni con i centri storici realizzate automaticamente. 
 La fase sperimentale, tuttavia, non sembra ancora conclusa, tenuto conto soprattutto dell’estrema eterogeneità del paesaggio edificato italiano. In regioni come la Campania e la Calabria, specie nelle aree soggette a maggior sviluppo edilizio, il lavoro di editing manuale (post processing) di validazione è stato molto oneroso oltre che necessario. Questo ha comportato una resa finale del dataset generato che in taluni casi può apparire disomogenea rispetto al medesimo prodotto in aree diverse. La gestione e risoluzione di diversi casi e situazioni inedite occorse in corso d’opera hanno, inoltre, contribuito – seppur in modo limitato – ad adattare e modificare i criteri di utilizzo e interpretazione dei dati. Si ritiene, dunque, utile sia una verifica accurata dei risultati fin qui conseguiti anche mediante l’auspicata integrazioni con ulteriori dati, ma anche l’estensione (in futuro) dell’applicazione della procedura ad altre aree del territorio nazionale, a partire da quelle a più elevato rischio sismico. Al fine delle verifiche di cui si parlava in precedenza è stato di grandissima utilità il lavoro di confronto con le delimitazioni di alcuni centri storici prodotte nelle diverse pianificazioni disponibili per l’area in studio svolto da Cosmo Mercuri (DPC) e presentato nel convegno tenutosi nel giugno 2022, nonché l’attività di compilazione delle schede SCAN da parte di ICCD
+
+## SERVIZI DI RETE OGC
+
+Nel caso di dati territoriali, viste le regole tecniche di cui alle linee guida INSPIRE per l’implementazione dei servizi di rete di cui all’art. 7 comma 1 del D-LGS-32-2010, detti servizi di rete possono essere considerati come API in considerazione del fatto che nell’ambito delle Linee Guida sull’interoperabilità tecnica delle PA, accettando la nomenclatura in uso a livello europeo e più in generale nel contesto internazionale, si utilizza il termine generico API per indicare indifferentemente le Web API, i web service e le API REST (Linee Guida Open Data).
+
+**Servizi di consultazione**
+
+https://servizi.protezionecivile.it/geoserver/CSRS/wms?service=wms&version=1.3.0&request=GetCapabilities
+
+**Servizi di scaricamento**
+
+https://servizi.protezionecivile.it/geoserver/CSRS/ows?service=wfs&version=1.1.0&request=GetCapabilities
 
 ## METADATI
 
