@@ -8,7 +8,7 @@ Collaborazione tra il Dipartimento della protezione civile della Presidenza del 
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/DPC-Aggregati-Strutturali-ITC-NordOvest)](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/commits/master)
 
 ## Avvisi
-Il 2022-11-** viene aperto il Repository.
+Il 2022-12-05 viene aperto il Repository.
 
 ## Sommario
 [Struttura del Repository](#Struttura-del-repository)
