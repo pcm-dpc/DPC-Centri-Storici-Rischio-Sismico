@@ -83,7 +83,7 @@ The structure of the files is as follows:
 | **TOPONIMO_IGM**                        | Geographic name | Geographic name taken from the cartographic series 25V (Old series of the Tables of the Geographical Military Institute – IGM at the scale 1:25000) corresponding to the historical town center (when associated to identify the position) |
 | **LONGITUDINE**                        |  | X Coordinate in the reference system |
 | **LATITUDINE**                        |  | Y Coordinate in the reference system |
-| **IC(vedi nota)**                        | Cultural Interest | A synthetic indicator that takes into consideration multiple factors, all of which contribute to determine the interest of a historical town center from the artistic, historical, environmental and socio-anthropological points of view. To orient oneself with respect to the numerical values observed, the division into the progressive "value" classes adopted in the CSRS system for the thematic representations is reported, according to the following schema: 
+| **IC(see footnote)**                        | Cultural Interest | A synthetic indicator that takes into consideration multiple factors, all of which contribute to determine the interest of a historical town center from the artistic, historical, environmental and socio-anthropological points of view. To orient oneself with respect to the numerical values observed, the division into the progressive "value" classes adopted in the CSRS system for the thematic representations is reported, according to the following schema: 
 | | |IC = 0                     null |
 | | |0 < IC < 2.41         Class E |
 | | |2.41 < IC < 9.5      Class D |
