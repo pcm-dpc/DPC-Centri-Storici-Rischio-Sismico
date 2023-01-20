@@ -10,6 +10,7 @@ Collaboration between the Civil Protection Department of the Presidency of the C
 On 2022-12-05 the Repository is opened.
 
 ## Summary
+
 [Repository structure](#Repository structure)
 
 [1 HISTORICAL TOWN CENTERS](#1- HISTORICAL TOWN CENTERS)
