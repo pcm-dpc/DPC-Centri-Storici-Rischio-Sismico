@@ -3,6 +3,7 @@
 # DPC-Centri-Storici-Rischio-Sismico
 ## Repository containing some datasets of the Historical Centers and Seismic Risk Web System (CSRS)
 Collaboration between the Civil Protection Department of the Presidency of the Council of Ministers (DPC) and the Institute for Cataloguing and Documentation of the Ministry of Culture (ICCD), including the one in the context of the PON Project "Digital Paths" on the historical town centers of Regions of Basilicata, Calabria, Campania and Puglia
+
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/DPC-Aggregati-Strutturali-ITC-NordOvest)](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/commits/master)
 
@@ -90,7 +91,9 @@ The structure of the files is as follows:
 | | |31.37 < IC <= 100 Class B |
 | | |IC > 100                 Class A |
 | **EC(see footnote)**                        | Cultural Exposure | Synthetic indicator, which relates the Cultural Interest of a historical town center to the number of pre-1945 buildings in the same historical town center compared to the maximum number of pre-1945 buildings in Italy |
+
 (footnote) These attributes are not reported in the downloadable file from Github because they are "dynamic" indicators, i.e., subject to change based on the factors that determine them and are calculated based on the valorization of the tabs  related to the various historical centers in the CSRS system. They are therefore available in the W*S Network Services. For details, see the Final Report (https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/main/Documenti/CentriStorici_ProgettoPON_Finale.pdf  ) and in particular documents [1], [2] and [7] in the Bibliography. 
+
 ## 1-3 Reference system
 The official reference system for Italy is the ETRF2000 system (at the time it was defined as 2008.0) and it is an obligation for Public Administrations to adopt it according to the provisions of the November 10, 2011 DM "Adoption of the National Geodetic Reference System" (https://www.gazzettaufficiale.it/eli/id/2012/02/27/12A01799/sg).
 To facilitate the correct use of reference systems within GIS software, the Military Geographical Institute (IGM) has published a special Note (https://www.igmi.org/++theme++igm/pdf/new_note_EPSG.pdf), in which - in particular - the use of the projected systems of RDN2008 is recommended. In the case of the Historical Town Centers therefore the projected system RDN2008 / Italy zone (E-N) (EPSG7794) was adopted.
