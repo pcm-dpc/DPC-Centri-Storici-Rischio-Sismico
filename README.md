@@ -151,9 +151,21 @@ contenuto del Repertorio Nazionale dei Dati Territoriali, Versione 2.0.1 adottat
 
 https://dati.protezionecivile.it/geoportalDPC/rest/document?id=PCM:111:20221114:100000
 
-**Aree ad elevata concentrazione di edificato ante 1945:**
+https://geodati.gov.it/geoportalRNDTPA/rest/document?id=PCM%3A111%3A20221114%3A100000
+
+https://dati.gov.it/view-dataset/dataset?id=21d6af64-83ff-4053-8a22-4440376c96d2
+
+http://data.europa.eu/88u/dataset/pcm-111-20221114-100000
+
+**Aree ad elevata concenmtrazione di edifici ante 1945:**
 
 https://dati.protezionecivile.it/geoportalDPC/rest/document?id=PCM:111bis:20221114:100900
+
+https://geodati.gov.it/geoportalRNDTPA/rest/document?id=PCM%3A111bis%3A20221114%3A100900
+
+https://dati.gov.it/view-dataset/dataset?id=943eb661-5836-4f49-93e7-b1396ce07233
+
+http://data.europa.eu/88u/dataset/pcm-111bis-20221114-100900
 
 ## ATTORI COINVOLTI
 Attività istituzionale realizzata in collaborazione tra il Servizio Sistemi Informativi e di comunicazione dell’Ufficio Risorse umane e strumentali e servizi generali di funzionamento (RUS) e il Servizio Rilievo del danno dell’Ufficio Attività per il superamento dell’emergenza (POST), entrambi appartenenti al Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri (DPC) e l’Istituto per il Catalogo e la Documentazione del Ministero della Cultura (ICCD).
