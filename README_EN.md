@@ -10,10 +10,9 @@ Collaboration between the Civil Protection Department of the Presidency of the C
 On 2022-12-05 the Repository is opened.
 
 ## Summary
+[Repository structure](#Repository-structure)
 
-[Repository structure](#Repository structure)
-
-[1 HISTORICAL TOWN CENTERS](#1- HISTORICAL TOWN CENTERS)
+[1 HISTORICAL TOWN CENTERS](#1-HISTORICAL-TOWN-CENTERS)
 
 [1-1 Introduction](#1-1-Introduction)
 
@@ -25,7 +24,7 @@ On 2022-12-05 the Repository is opened.
 
 [1-5 Quality checks](#1-5-Quality-checks)
 
-[2 AREAS WITH A HIGH CONCENTRATION OF PRE-1945 BUILT-UP](#2- AREAS-WITH-A-HIGH-CONCENTRATION-OF-PRE-1945-BUILT-UP)
+[2 AREAS WITH A HIGH CONCENTRATION OF PRE-1945 BUILT-UP](#2-AREAS-WITH-A-HIGH-CONCENTRATION-OF-PRE-1945-BUILT-UP)
 
 [2-1 Introduction](#2-1-Introduction)
 
@@ -78,7 +77,7 @@ The structure of the files is as follows:
 | Field Name                  | Definition                      | Description                   | 
 |-----------------------------|-----------------------------------|---------------------------------------|
 | **NOMECS**                        | Name of the historical town center | Name given in the ICCD/Region of Sicily census or by the CSRS system |
-| **ID_CS**                        | Identifier of the historical town center | I Identifier of the historical town center inherited from the ICCD/Region census or assigned by the CSRS system |
+| **ID_CS**                        | Identifier of the historical town center | Identifier of the historical town center inherited from the ICCD/Region census or assigned by the CSRS system |
 | **ISTATL**                        | ISTAT complete Code of the inhabited area | ISTAT code referring to the 2011 census of the region, province, municipality and inhabited area in which the historical town center falls (2 digits: ISTAT Region code; 3 digits: ISTAT Province code; 3 digits: ISTAT Municipality code; 5 digits ISTAT Inhabited area code). In the Inhabited area code, the first digit indicates the type of locality (1=center, 2=nucleus, 3=special locality, 4=scattered houses) |
 | **TOPONIMO_IGM**                        | Geographic name | Geographic name taken from the cartographic series 25V (Old series of the Tables of the Geographical Military Institute – IGM at the scale 1:25000) corresponding to the historical town center (when associated to identify the position) |
 | **LONGITUDINE**                        |  | X Coordinate in the reference system |
