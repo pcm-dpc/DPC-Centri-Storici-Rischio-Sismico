@@ -187,7 +187,7 @@ Maurizio Ambrosanio (Agenzia delle Entrate - Direzione Centrale Servizi Catastal
 
 ## LICENSE
 
-[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/master/LICENSE.md)
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [See license](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/master/LICENSE.md)
 
 **Historical town centers**
 
