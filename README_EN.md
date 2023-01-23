@@ -2,7 +2,7 @@
 
 # DPC-Centri-Storici-Rischio-Sismico
 ## Repository containing some datasets of the Historic Centres and Seismic Risk Web System (CSRS)
-Collaboration between the Civil Protection Department of the Presidency of the Council of Ministers (DPC) and the Institute for Cataloguing and Documentation of the Ministry of Culture (ICCD), including the one in the context of the PON Project "Digital Paths" on the historic town centre of Basilicata, Calabria, Campania and Apulia Regions.
+Collaboration between the Civil Protection Department of the Presidency of the Council of Ministers (DPC) and the Institute for Cataloguing and Documentation of the Ministry of Culture (ICCD), including the one in the context of the PON Project "Digital Paths" on the historic centres of Basilicata, Calabria, Campania and Apulia Regions.
 
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/DPC-Aggregati-Strutturali-ITC-NordOvest)](https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/commits/master)
