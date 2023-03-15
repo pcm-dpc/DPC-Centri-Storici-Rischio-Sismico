@@ -155,6 +155,8 @@ https://geodati.gov.it/geoportalRNDTPA/rest/document?id=PCM%3A111%3A20221114%3A1
 
 https://dati.gov.it/view-dataset/dataset?id=21d6af64-83ff-4053-8a22-4440376c96d2
 
+https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-c22038a7-4e03-11e8-a459-52540023a883_20230305-223302%2Fservices%2F1%2FPullResults%2F1-20%2Fdatasets%2F8&expandedSection=metadata
+
 http://data.europa.eu/88u/dataset/pcm-111-20221114-100000
 
 **Areas with a high concentration of pre 1945 build up:**
@@ -164,6 +166,8 @@ https://dati.protezionecivile.it/geoportalDPC/rest/document?id=PCM:111bis:202211
 https://geodati.gov.it/geoportalRNDTPA/rest/document?id=PCM%3A111bis%3A20221114%3A100900
 
 https://dati.gov.it/view-dataset/dataset?id=943eb661-5836-4f49-93e7-b1396ce07233
+
+https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-c22038a7-4e03-11e8-a459-52540023a883_20230305-223302%2Fservices%2F1%2FPullResults%2F1-20%2Fdatasets%2F9&expandedSection=metadata
 
 http://data.europa.eu/88u/dataset/pcm-111bis-20221114-100900
 
