@@ -159,7 +159,7 @@ https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetail
 
 http://data.europa.eu/88u/dataset/pcm-111-20221114-100000
 
-**Aree ad elevata concenmtrazione di edifici ante 1945:**
+**Aree ad elevata concentrazione di edifici ante 1945:**
 
 https://dati.protezionecivile.it/geoportalDPC/rest/document?id=PCM:111bis:20221114:100900
 
