@@ -151,7 +151,7 @@ contenuto del Repertorio Nazionale dei Dati Territoriali, Versione 2.0.1 adottat
 
 https://dati.protezionecivile.it/geoportalDPC/rest/document?id=PCM:111:20221114:100000
 
-https://geodati.gov.it/geoportalRNDTPA/rest/document?id=PCM%3A111%3A20221114%3A100000
+https://geodati.gov.it/resource/id/PCM:111:20221114:100000
 
 https://dati.gov.it/view-dataset/dataset?id=21d6af64-83ff-4053-8a22-4440376c96d2
 
