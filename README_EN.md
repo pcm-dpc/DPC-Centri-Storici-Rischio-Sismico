@@ -151,7 +151,7 @@ content of the National Spatial Data Directory, Version 2.0.1 adopted with Resol
 
 https://dati.protezionecivile.it/geoportalDPC/rest/document?id=PCM:111:20221114:100000
 
-https://geodati.gov.it/geoportalRNDTPA/rest/document?id=PCM%3A111%3A20221114%3A100000
+https://geodati.gov.it/resource/id/PCM:111:20221114:100000
 
 https://dati.gov.it/view-dataset/dataset?id=21d6af64-83ff-4053-8a22-4440376c96d2
 
@@ -163,7 +163,7 @@ http://data.europa.eu/88u/dataset/pcm-111-20221114-100000
 
 https://dati.protezionecivile.it/geoportalDPC/rest/document?id=PCM:111bis:20221114:100900
 
-https://geodati.gov.it/geoportalRNDTPA/rest/document?id=PCM%3A111bis%3A20221114%3A100900
+https://geodati.gov.it/resource/id/PCM:111bis:20221114:100900
 
 https://dati.gov.it/view-dataset/dataset?id=943eb661-5836-4f49-93e7-b1396ce07233
 
