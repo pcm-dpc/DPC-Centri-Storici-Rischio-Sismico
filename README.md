@@ -107,6 +107,7 @@ La struttura dei dati nei file è la seguente:
 | **EC(vedi nota)**                        | Esposizione Culturale | Indicatore sintetico, che mette in relazione l’Interesse Culturale di un centro storico con il numero di edifici ante 1945 del medesimo centro storico rispetto al numero massimo di edifici ante 1945 in Italia |
 
 (nota) Questi attributi non vengono riportati nel file scaricabile da Github in quanto indicatori “dinamici”, ovvero soggetti a variazioni in base ai fattori che li determinano e che sono calcolati in base alla valorizzazione delle schede relative ai vari centri storici nel sistema CSRS. Sono pertanto disponibili nei Servizi di rete WMS e WFS. Per i dettagli si rimanda alla Relazione Finale e in particolare ai documenti [1], [2] e [7] della Bibliografia.
+
 (nota) Le descrizioni relative agli attributi ISTAT 2011 sono tratte dal documento “Descrizione dei dati geografici e delle variabili censuarie per i censimenti: anni 1991, 2001, 2011”, Versione definitiva del 25/02/2016 (https://www.istat.it/it/files//2013/11/Descrizione-dati-Pubblicazione-2016.03.09.pdf ).
 
 ## 1-3 Sistema di riferimento
