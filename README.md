@@ -93,10 +93,8 @@ La struttura dei dati nei file è la seguente:
 | | |2. nucleo abitato|
 | | |3. località produttiva|
 | | |4. case sparse|
-| **LOC2011NAZ**     | | Codice che identifica univocamente la località (ISTAT 2011 in ambito nazionale: è presente un’unica riga con codice di località = 40000, che raggruppa tutte le località di tipo “località produttiva” e “case sparse” eventualmente presenti nel territorio comunale.).
-Il codice è ottenuto dalla concatenazione del campo “PRO_COM” con il campo “COD_LOC”|
-| **LOC2011SEZ**     | | Codice che identifica univocamente la località (ISTAT 2011 in ambito nazionale a partire dalle sezioni di censimento 2011).
-Il codice è ottenuto dalla concatenazione del campo “PRO_COM” con il campo “COD_LOC”|
+| **LOC2011NAZ**     | | Codice che identifica univocamente la località (ISTAT 2011 in ambito nazionale: è presente un’unica riga con codice di località = 40000, che raggruppa tutte le località di tipo “località produttiva” e “case sparse” eventualmente presenti nel territorio comunale.). Il codice è ottenuto dalla concatenazione del campo “PRO_COM” con il campo “COD_LOC”|
+| **LOC2011SEZ**     | | Codice che identifica univocamente la località (ISTAT 2011 in ambito nazionale a partire dalle sezioni di censimento 2011). Il codice è ottenuto dalla concatenazione del campo “PRO_COM” con il campo “COD_LOC”|
 | **CL_LOC2011**     | | È pari ad 1 nel caso la località è il centro capoluogo del comune e 0 altrimenti|
 | **CL_CS**     | | È pari ad 1 nel caso il centro storico coincida con il centro capoluogo del comune, 2 nel caso il centro storico coincida con il centro capoluogo della provincia e 3 nel caso il centro storico coincida con il centro capoluogo della Regione e 0 altrimenti|
 | **IC(vedi nota)**                        | Interesse Culturale | Indicatore sintetico che prende in considerazione molteplici fattori, tutti concorrenti a determinare l’interesse di un centro storico dal punto di vista artistico, storico, ambientale e socio-antropologico. Per orientarsi rispetto ai valori numerici osservati, si riporta la suddivisione nelle classi progressive adottata nel sistema CSRS per le rappresentazioni tematiche, secondo il seguente schema: 
