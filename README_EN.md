@@ -106,7 +106,7 @@ The structure of the files is as follows:
 
 (footnote) These attributes are not reported in the downloadable file from Github because they are "dynamic" indicators, i.e., subject to change based on the factors that determine them and are calculated based on the valorization of the tabs  related to the various historic centres in the CSRS system. They are therefore available in the W*S Network Services. For details, see the Final Report (https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/main/Documenti/CentriStorici_ProgettoPON_Finale.pdf  ) and in particular documents [1], [2] and [7] in the Bibliography. 
 
-(footnote) The descriptions relating to the ISTAT 2011 attributes are taken from the document "Description of geographical data and census variables for censuses: years 1991, 2001, 2011", Final version of 25/02/2016 (https://www. istat.it/it/files//2013/11/Descrizione-dati-Pubblicazione-2016.03.09.pdf ).
+(footnote) The descriptions relating to the ISTAT 2011 attributes are taken from the document "Description of geographical data and census variables for censuses: years 1991, 2001, 2011", Final version of 25/02/2016 (https://www.istat.it/it/files//2013/11/Descrizione-dati-Pubblicazione-2016.03.09.pdf).
 
 ## 1-3 Reference system
 The official reference system for Italy is the ETRF2000 system (at the time it was defined as 2008.0) and it is an obligation for Public Administrations to adopt it according to the provisions of the November 10, 2011 DM "Adoption of the National Geodetic Reference System" (https://www.gazzettaufficiale.it/eli/id/2012/02/27/12A01799/sg).
