@@ -89,10 +89,10 @@ La struttura dei dati nei file è la seguente:
 | **COD_PRO**     | | Codice numerico che identifica univocamente le province nel territorio nazionale (ISTAT 2011)|
 | **PRO_COM**     | | Codice numerico che identifica univocamente il 'comune' nell’ambito del territorio nazionale. Il valore è ottenuto dalla concatenazione del codice provinciale e comunale (ISTAT 2011)|
 | **TIPO_LOC**     | | Tipologia di località (ISTAT 2011. Il campo può assumere i seguenti valori:
-1. centro abitato
-2. nucleo abitato
-3. località produttiva
-4. case sparse|
+| | |1. centro abitato|
+| | |2. nucleo abitato|
+| | |3. località produttiva|
+| | |4. case sparse|
 | **LOC2011NAZ**     | | Codice che identifica univocamente la località (ISTAT 2011 in ambito nazionale: è presente un’unica riga con codice di località = 40000, che raggruppa tutte le località di tipo “località produttiva” e “case sparse” eventualmente presenti nel territorio comunale.).
 Il codice è ottenuto dalla concatenazione del campo “PRO_COM” con il campo “COD_LOC”|
 | **LOC2011SEZ**     | | Codice che identifica univocamente la località (ISTAT 2011 in ambito nazionale a partire dalle sezioni di censimento 2011).
