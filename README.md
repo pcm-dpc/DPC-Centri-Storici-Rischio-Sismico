@@ -88,6 +88,17 @@ La struttura dei dati nei file è la seguente:
 | **COD_REG**     | | Codice numerico che identifica univocamente le regioni nel territorio nazionale (ISTAT 2011)|
 | **COD_PRO**     | | Codice numerico che identifica univocamente le province nel territorio nazionale (ISTAT 2011)|
 | **PRO_COM**     | | Codice numerico che identifica univocamente il 'comune' nell’ambito del territorio nazionale. Il valore è ottenuto dalla concatenazione del codice provinciale e comunale (ISTAT 2011)|
+| **TIPO_LOC**     | | Tipologia di località (ISTAT 2011. Il campo può assumere i seguenti valori:
+1. centro abitato
+2. nucleo abitato
+3. località produttiva
+4. case sparse|
+| **LOC2011NAZ**     | | Codice che identifica univocamente la località (ISTAT 2011 in ambito nazionale: è presente un’unica riga con codice di località = 40000, che raggruppa tutte le località di tipo “località produttiva” e “case sparse” eventualmente presenti nel territorio comunale.).
+Il codice è ottenuto dalla concatenazione del campo “PRO_COM” con il campo “COD_LOC”|
+| **LOC2011SEZ**     | | Codice che identifica univocamente la località (ISTAT 2011 in ambito nazionale a partire dalle sezioni di censimento 2011).
+Il codice è ottenuto dalla concatenazione del campo “PRO_COM” con il campo “COD_LOC”|
+| **CL_LOC2011**     | | È pari ad 1 nel caso la località è il centro capoluogo del comune e 0 altrimenti|
+| **CL_CS**     | | È pari ad 1 nel caso il centro storico coincida con il centro capoluogo del comune, 2 nel caso il centro storico coincida con il centro capoluogo della provincia e 3 nel caso il centro storico coincida con il centro capoluogo della Regione e 0 altrimenti|
 | **IC(vedi nota)**                        | Interesse Culturale | Indicatore sintetico che prende in considerazione molteplici fattori, tutti concorrenti a determinare l’interesse di un centro storico dal punto di vista artistico, storico, ambientale e socio-antropologico. Per orientarsi rispetto ai valori numerici osservati, si riporta la suddivisione nelle classi progressive adottata nel sistema CSRS per le rappresentazioni tematiche, secondo il seguente schema: 
 | | |IC = 0                     Indicatore nullo |
 | | |0 < IC < 2.41         Classe E |
@@ -98,6 +109,7 @@ La struttura dei dati nei file è la seguente:
 | **EC(vedi nota)**                        | Esposizione Culturale | Indicatore sintetico, che mette in relazione l’Interesse Culturale di un centro storico con il numero di edifici ante 1945 del medesimo centro storico rispetto al numero massimo di edifici ante 1945 in Italia |
 
 (nota) Questi attributi non vengono riportati nel file scaricabile da Github in quanto indicatori “dinamici”, ovvero soggetti a variazioni in base ai fattori che li determinano e che sono calcolati in base alla valorizzazione delle schede relative ai vari centri storici nel sistema CSRS. Sono pertanto disponibili nei Servizi di rete WMS e WFS. Per i dettagli si rimanda alla Relazione Finale e in particolare ai documenti [1], [2] e [7] della Bibliografia.
+(nota) Le descrizioni relative agli attributi ISTAT 2011 sono tratte dal documento “Descrizione dei dati geografici e delle variabili censuarie per i censimenti: anni 1991, 2001, 2011”, Versione definitiva del 25/02/2016 (https://www.istat.it/it/files//2013/11/Descrizione-dati-Pubblicazione-2016.03.09.pdf ).
 
 ## 1-3 Sistema di riferimento
 Il sistema di riferimento ufficiale per l’Italia è il sistema ETRF2000 (all’epoca in cui venne definito 2008.0) ed è un obbligo per le Pubbliche Amministrazioni adottarlo in base a quanto stabilito dal DM 10 novembre 2011 “Adozione del Sistema di riferimento geodetico nazionale” (https://www.gazzettaufficiale.it/eli/id/2012/02/27/12A01799/sg).
