@@ -83,6 +83,18 @@ The structure of the files is as follows:
 | **TOPONIMO_IGM**                        | Geographic name | Geographic name taken from the cartographic series 25V (Old series of the Tables of the Geographical Military Institute – IGM at the scale 1:25000) corresponding to the historic centre (when associated to identify the position) |
 | **LONGITUDINE**                        |  | X Coordinate in the reference system |
 | **LATITUDINE**                        |  | Y Coordinate in the reference system |
+| **COD_REG**     | | Numerical code that uniquely identifies the regions in the national territory (ISTAT 2011)|
+| **COD_PRO**     | | Numerical code that uniquely identifies the provinces in the national territory (ISTAT 2011)|
+| **PRO_COM**     | | Numerical code that uniquely identifies the 'municipality' within the national territory. The value is obtained from the concatenation of the provincial and municipal code (ISTAT 2011)|
+| **TIPO_LOC**     | | Type of locality (ISTAT 2011. The field can assume the following values:
+| | |1. inhabited centre|
+| | |2. inhabited nucleus|
+| | |3. production location|
+| | |4. scattered houses|
+| **LOC2011NAZ**     | | Code that uniquely identifies the locality (ISTAT 2011 at national level: there is a single line with locality code = 40000, which groups together all the localities of the type "production locality" and "scattered houses" possibly present in the municipal area.). The code is obtained by concatenating the "PRO_COM" field with the "COD_LOC" field|
+| **LOC2011SEZ**     | | Code that uniquely identifies the locality (ISTAT 2011 at national level starting from the 2011 census sections). The code is obtained by concatenating the "PRO_COM" field with the "COD_LOC" field|
+| **CL_LOC2011**     | | It is equal to 1 if the locality is the capital of the municipality and 0 otherwise|
+| **CL_CS**     | | It is equal to 1 if the historic center coincides with the capital center of the municipality, 2 if the historic center coincides with the capital center of the province and 3 if the historic centres coincides with the capital center of the Region and 0 otherwise|
 | **IC(see footnote)**                        | Cultural Interest | A synthetic indicator that takes into consideration multiple factors, all of which contribute to determine the interest of a historic centre from the artistic, historical, environmental and socio-anthropological points of view. To orient oneself with respect to the numerical values observed, the division into the progressive "value" classes adopted in the CSRS system for the thematic representations is reported, according to the following schema: 
 | | |IC = 0                     null |
 | | |0 < IC < 2.41         Class E |
@@ -93,6 +105,8 @@ The structure of the files is as follows:
 | **EC(see footnote)**                        | Cultural Exposure | Synthetic indicator, which relates the Cultural Interest of a historic centre to the number of pre-1945 buildings in the same historic centre compared to the maximum number of pre-1945 buildings in Italy |
 
 (footnote) These attributes are not reported in the downloadable file from Github because they are "dynamic" indicators, i.e., subject to change based on the factors that determine them and are calculated based on the valorization of the tabs  related to the various historic centres in the CSRS system. They are therefore available in the W*S Network Services. For details, see the Final Report (https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico/blob/main/Documenti/CentriStorici_ProgettoPON_Finale.pdf  ) and in particular documents [1], [2] and [7] in the Bibliography. 
+
+(footnote) The descriptions relating to the ISTAT 2011 attributes are taken from the document "Description of geographical data and census variables for censuses: years 1991, 2001, 2011", Final version of 25/02/2016 (https://www. istat.it/it/files//2013/11/Descrizione-dati-Pubblicazione-2016.03.09.pdf ).
 
 ## 1-3 Reference system
 The official reference system for Italy is the ETRF2000 system (at the time it was defined as 2008.0) and it is an obligation for Public Administrations to adopt it according to the provisions of the November 10, 2011 DM "Adoption of the National Geodetic Reference System" (https://www.gazzettaufficiale.it/eli/id/2012/02/27/12A01799/sg).
